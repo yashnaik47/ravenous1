@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ravenous1/static/css/main.a302bba4.chunk.css",
+    "main.js": "/ravenous1/static/js/main.4f2c9f9b.chunk.js",
+    "main.js.map": "/ravenous1/static/js/main.4f2c9f9b.chunk.js.map",
+    "runtime~main.js": "/ravenous1/static/js/runtime~main.ec11160b.js",
+    "runtime~main.js.map": "/ravenous1/static/js/runtime~main.ec11160b.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/ravenous1/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/ravenous1/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/ravenous1/index.html",
+    "precache-manifest.92db222a430bcca505b6b6fd2b9b7d57.js": "/ravenous1/precache-manifest.92db222a430bcca505b6b6fd2b9b7d57.js",
+    "service-worker.js": "/ravenous1/service-worker.js",
+    "static/css/main.a302bba4.chunk.css.map": "/ravenous1/static/css/main.a302bba4.chunk.css.map",
+    "static/media/SearchBar.css": "/ravenous1/static/media/background_search_mobile.5d0905e6.jpg",
+    "static/media/logo.svg": "/ravenous1/static/media/logo.5d5d9eef.svg"
+  }
+}
